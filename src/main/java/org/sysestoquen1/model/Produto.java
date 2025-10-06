@@ -14,8 +14,6 @@ public class Produto {
         this.quantidade = quantidade;
     }
 
-
-
     public String getNome() {
         return nome;
     }
